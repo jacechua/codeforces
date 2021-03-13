@@ -1,2 +1,2 @@
-# codeforces
+# Codeforces
 Competitive programming participation on Codeforces. 
