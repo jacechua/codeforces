@@ -1,2 +1,2 @@
 # Codeforces
-Competitive programming participation on Codeforces. 
+Competitive programming contests participation on Codeforces.
